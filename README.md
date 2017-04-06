@@ -11,6 +11,7 @@
   - いっぱいある。とりあえず [WP Accessibility](https://ja.wordpress.org/plugins/wp-accessibility/) 入れとこうか。
 - google analytics plugin さがす
   - tag は code for japan 内のプロパティで発行しましょう
+- accessiblity に配慮された theme の候補を探しておく
 - タスク管理どうする？
   - とりあえずこんな感じで github README で書き換えながら進めるかね
 
