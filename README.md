@@ -7,4 +7,4 @@ Code for Japan 2017 web site team collaboration
 - accessibility plugin さがす
 - google analytics plugin さがす
 - タスク管理どうする？
-    - とりあえずこんな感じで github README で書き換えながら進めるかね
+  - とりあえずこんな感じで github README で書き換えながら進めるかね
