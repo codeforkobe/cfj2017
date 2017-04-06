@@ -1,5 +1,4 @@
-# cfj2017
-Code for Japan 2017 web site team collaboration
+# TODO
 
 6 月にテザーを出したい。
 - wordpress 勉強
