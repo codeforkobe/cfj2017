@@ -1,6 +1,6 @@
 # 運用
 
-基本 facebook 連絡の予定。新しい話が出てきたり、何か困ったりしたら [facebook グループ](https://www.facebook.com/groups/932484090226539/) に投げ込んでください。
+基本 facebook 連絡の予定。新しい話が出てきたり、何か困ったりしたら [facebook グループ](https://www.facebook.com/groups/932484090226539/) に投げ込むあるいは Issues に登録してください。
 
 # TODO
 
