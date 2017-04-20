@@ -7,6 +7,8 @@
 6 月にテザーを出したい。
 - wordpress 勉強
 - timetable plugin さがす
+  - [Timetable Responsive Schedule For WordPress](http://quanticalabs.com/script/timetable-responsive-schedule-for-wordpress/7010836) (有料)
+  - [Free Timetable and Event Schedule Plugin](http://www.getmotopress.com/plugins/timetable-event-schedule-plugin/)
 - accessibility plugin さがす
   - いっぱいある。とりあえず [WP Accessibility](https://ja.wordpress.org/plugins/wp-accessibility/) 入れとこうか。
 - google analytics plugin さがす
